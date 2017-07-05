@@ -1,0 +1,6 @@
+version: "Apple Swift version 3.1 (swiftlang-802.0.53 clang-802.0.42)"
+options: "ef43059e58e284b8bc944392bc30175e"
+build_time: [552076582, 866479000]
+inputs:
+  "/Users/pali/Desktop/Fun Facts App/Fun Facts App/ViewController.swift": [552076582, 0]
+  "/Users/pali/Desktop/Fun Facts App/Fun Facts App/AppDelegate.swift": [552070764, 0]
